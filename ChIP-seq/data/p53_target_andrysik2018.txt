@@ -1,0 +1,103 @@
+ATF3	apoptosis
+BAX	apoptosis
+BBC3	apoptosis
+BLCAP	apoptosis
+CDIP1	apoptosis
+CYFIP2	apoptosis
+FAS	apoptosis
+IKBIP	apoptosis
+PHLDA3	apoptosis
+PRDM1	apoptosis
+RPS27L	apoptosis
+TNFRSF10B	apoptosis
+TP53I3	apoptosis
+TP53INP1	apoptosis
+MDM2	p53 control
+PPM1D	p53 control
+PTP4A1	p53 control
+BTG2	cell cycle arreat
+CCNG1	cell cycle arreat
+CDKN1A	cell cycle arreat
+DUSP14	cell cycle arreat
+GADD45A	cell cycle arreat
+NUPR1	cell cycle arreat
+PLK2	cell cycle arreat
+PLK3	cell cycle arreat
+ZMAT3	cell cycle arreat
+ZNF385A	cell cycle arreat
+DRAM	autophagy
+EI24	autophagy
+SESN1	autophagy
+SESN2	autophagy
+ABCA12	differentiation
+ADIRF	differentiation
+CD82	differentiation
+EFNB1	differentiation
+GDF15	differentiation
+HES2	differentiation
+LIF	differentiation
+PSTPIP2	differentiation
+TGFA	differentiation
+TSKU	differentiation
+WDR63	differentiation
+ASCC3	dna repair
+DDB2	dna repair
+POLH	dna repair
+RRM2B	dna repair
+XPC	dna repair
+DDIT4	survival proliferation
+GPR87	survival proliferation
+PGF	survival proliferation
+PRKX	survival proliferation
+RAP2B	survival proliferation
+SERPINE1	survival proliferation
+SERTAD1	survival proliferation
+TRAF4	survival proliferation
+TRIAP1	survival proliferation
+APOBEC3C	antiviral
+APOBEC3H	antiviral
+ETV7	antiviral
+ACER2	metabolism
+CEL	metabolism
+CMBL	metabolism
+FDXR	metabolism
+NADSYN1	metabolism
+PANK1	metabolism
+PNPO	metabolism
+PRKAB1	metabolism
+TIGAR	metabolism
+CSNK1G1	signal transduction
+DGKA	signal transduction
+FHL2	signal transduction
+INPP1	signal transduction
+LRP1	signal transduction
+PHPT1	signal transduction
+AMZ2	unknown
+AMZ2P1	unknown
+ANKRA2	unknown
+ANXA4	unknown
+BLOC1S2	unknown
+C19orf82	unknown
+C9orf169	unknown
+CDC42SE1	unknown
+DCP1B	unknown
+EPS8L2	unknown
+FAM210B	unknown
+FAM212B	unknown
+FBXO22	unknown
+GATS	unknown
+GRIN2C	unknown
+ISCU	unknown
+KANK3	unknown
+KLHDC7A	unknown
+KLHL30	unknown
+KIAA0247	unknown
+NINJ1	unknown
+PARD6G	unknown
+RNF19B	unknown
+SULF2	unknown
+TMEM63B	unknown
+TMEM68	unknown
+ZNF79	unknown
+ZNF337	unknown
+ZNF561	unknown

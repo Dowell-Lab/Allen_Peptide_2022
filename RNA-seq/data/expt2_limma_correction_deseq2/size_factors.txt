@@ -1,0 +1,4 @@
+   H2O_DMSO_1    H2O_DMSO_2    H2O_DMSO_3  H2O_Nutlin_1  H2O_Nutlin_2  H2O_Nutlin_3  Peg_6_DMSO_1  Peg_6_DMSO_2   Peg6_DMSO_3 Peg6_Nutlin_1 
+    0.9160456     0.9031319     0.8533914     1.0476986     0.8917638     0.9512510     1.0571256     1.1473095     1.1159175     1.0266179 
+Peg6_Nutlin_2 Peg6_Nutlin_3 
+    1.1169531     1.1061289 
