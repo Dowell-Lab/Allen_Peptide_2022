@@ -10,6 +10,9 @@ If unavailable, information can be obtained through the lead contact for this pu
 There are two main directories, ChIP-seq and RNA-seq.
 Each contains relevant data and code for these analyses.
 Within these main directories there are 3 main subdirecties,
+
 -[data] -contains data used in scripts or key data in the publication
+
 -[notebooks] -contains jupyter notebooks that were used for all ploting and a portion of the analysis
+
 -[scripts] -contains scripts used to run specific programs in the data analysis
