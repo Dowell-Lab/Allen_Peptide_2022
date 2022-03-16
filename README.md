@@ -6,6 +6,8 @@ I have made my best effort to include all scripts and describe all methods for t
 If you have any questions regarding the contents of this repository, please contact Taylor Jones at <tajo5912@colorado.edu>.
 If unavailable, information can be obtained through the lead contact for this publication, Dylan Taatjes <dylan.taatjes@colorado.edu>.
 
+[![DOI](https://zenodo.org/badge/467625091.svg)](https://zenodo.org/badge/latestdoi/467625091)
+
 ## Structure
 There are two main directories, ChIP-seq and RNA-seq.
 Each contains relevant data and code for these analyses.
